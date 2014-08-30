@@ -1,0 +1,80 @@
+.contactBox{
+	width:500px;
+	height:220px;
+	background-color: #2ECC71;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+
+.contactBoxBar{
+	width:500px;
+	height:30px;
+	background-color:#16A085;
+	margin-top: 10px;
+	position:relative;
+
+}
+
+.basicInfoBox{
+	width:780px;
+	height:310px;
+	background-color: #2ECC71;
+	margin-left: 250px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	position:relative;
+}
+
+.basicInfoBar{
+	width:780px;
+	height:30px;
+	background-color:#16A085;
+	/*margin-top: 10px;*/
+	/*position:relative;*/
+
+}
+
+.imageBox{
+	width:210px;
+	height:210px;
+	background-color: #C8FE2E;
+	margin-left: 250px;
+	margin-top: 10px;
+}
+
+
+.imageBox:hover { 
+	box-shadow: 0 0 100px #ccc;
+	box-shadow: 0 0 100px #ccc;
+	box-shadow: 0 0 100px #ccc; 
+
+}
+.insideBasicBoxone{
+	width:220px;
+	height: 240px;
+	margin-left: 30px;
+	margin-top: 20px;
+	background-color: #F3F781;
+	position:absolute;
+}
+
+.insideBasicBoxtwo{
+	width: 220px;
+	height: 240px;
+	margin-left: 30px;
+	margin-top: 20px;
+	background-color: #F3F781;
+	position:absolute;
+}
+	
+
+
+
+.insideBasicBoxthree{
+	width: 220px;
+	height: 240px;
+	margin-left: 30px;
+	margin-top: 20px;
+	background-color: #F3F781;
+	position:absolute;
+}
